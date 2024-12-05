@@ -1,0 +1,5 @@
+Replace the holes of ADC connector should be around 4.5cm instead of 4.8
+
+Increase the margin/hole to outside for PH Module
+
+thicken wall?
